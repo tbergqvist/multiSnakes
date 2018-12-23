@@ -1,0 +1,25 @@
+tileSize 32
+screenWidth 15
+screenHeight 20
+
+player 1
+color 0x2ff37aff
+positionX 16
+positionY 16
+velocityX 0
+velocityY 32
+upKey W
+leftKey A
+downKey S
+rightKey D
+
+player 2
+color 0xf698dbff
+positionX 464
+positionY 16
+velocityX 0
+velocityY 32
+upKey Up
+leftKey Left
+downKey Down
+rightKey Right
